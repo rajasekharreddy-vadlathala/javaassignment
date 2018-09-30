@@ -11,3 +11,7 @@ Q A-2 : Now, we have 2 special kinds of birds: the Duck and the Chicken... Can y
 implement them to make their own special sound?
 
 Answer for 2a,2b,2c,2d: provided simulator class and unit test class for test the functionality.
+
+Q A-3 : Now how would you model a rooster?
+
+Answer for 3a,3b,3c: provided simulator class and unit test class for test the functionality.
