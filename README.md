@@ -16,7 +16,7 @@ Q A-3 : Now how would you model a rooster?
 
 Answer for 3a,3b,3c: provided simulator class and unit test class for test the functionality.
 
-Q A 4d)How do you keep the parrot maintainable? What if we need another parrot
+Q A-4d)How do you keep the parrot maintainable? What if we need another parrot
 lives near a Duck? Or near a phone that rings frequently?
 
 Answer : We can keep parrtot maintainable using Composition (Has-A relationship) with abstraction(implementing interfaces).
