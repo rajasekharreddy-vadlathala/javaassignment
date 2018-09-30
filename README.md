@@ -21,3 +21,13 @@ lives near a Duck? Or near a phone that rings frequently?
 
 Answer : We can keep parrtot maintainable using Composition (Has-A relationship) with abstraction(implementing interfaces).
   Here the parrot has a relationship with cat,dog,duck and rooster.
+  
+Q B. Model fish as well as other swimming animals.
+
+Ans:Test and Simulator classes created to test the behaviour.
+
+Q D.Can you optimize your model to account for the metamorphosis from caterpillar to
+butterfly?
+
+Answer : We can model caterpillar and butterfly using Composition/Aggregation - there is a relationship between
+caterpillar and butterfly since Caterpillar is transforming to butterfly.
